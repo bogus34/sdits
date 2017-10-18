@@ -1,0 +1,14 @@
+{
+  "name": "sdits",
+  "version": "0.0.1",
+  "description": "Static dependency injection for TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Bogdanov <andorn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.10"
+  }
+}
